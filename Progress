@@ -1,0 +1,8 @@
+Currently reading the reading a research paper on the Robot Kinematics.
+
+🔍 Main Insight: Robot kinematics involves the mathematical description of a robot's motion using concepts like forward and inverse kinematics, often employing the Denavit-Hartenberg (D-H) convention to define the relationships between links and joints. Forward kinematics calculates the end-effector position from joint variables, while inverse kinematics determines the joint variables needed for a desired end-effector position.
+
+💡 Why It Matters: Kinematics is fundamental to designing and controlling robotic systems effectively. It's crucial for tasks requiring precision, like industrial applications and surgical robots, ensuring accurate movement, enabling motion planning, and aiding in simulation and control systems.
+
+🔗 Source: ResearchGate Link: https://www.researchgate.net/publication/365193182_ROBOT_KINEMATICS
+
